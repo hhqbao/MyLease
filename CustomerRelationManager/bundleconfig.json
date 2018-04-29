@@ -1,0 +1,20 @@
+[
+  {
+    "outputFileName": "Content/css/bootstrap-theme.min.css",
+    "inputFiles": [
+      "Content/css/bootstrap-theme.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/bootstrap.min.css",
+    "inputFiles": [
+      "Content/css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/_base.min.css",
+    "inputFiles": [
+      "Content/css/_base.css"
+    ]
+  }
+]
